@@ -1,0 +1,46 @@
+.navbar {
+  background-color: #fe7235;
+}
+
+.mainTitle {
+  color: #fff;
+  font-weight: bolder;
+}
+
+.btn-orange {
+  background-color: #fe7235;
+  color: #fff;
+  padding: 5px 10px;
+  border: 1px solid #fff;
+  border-radius: 5px;
+}
+
+.addListInput {
+  width: 600px !important;
+  border: 1px solid #fea735 !important;
+}
+
+.searchInput {
+  width: 400px;
+  border: 1px solid #fea735;
+  border-radius: 5px;
+}
+
+.listInput {
+  width: 400px;
+  background-color: #fea735;
+  color: #fff;
+  border: 1px solid #fea735;
+  border-radius: 5px;
+}
+
+.separateLine {
+  border: 3px solid #fea735;
+  border-radius: 5px;
+  opacity: 1;
+  max-width: 1200px;
+  margin: 10px auto;
+}
+.fas {
+  color: #0077ff;
+}
